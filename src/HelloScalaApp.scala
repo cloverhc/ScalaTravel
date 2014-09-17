@@ -38,4 +38,6 @@ object HelloScalaApp extends App {
 	println(complex.re + ", " + complex.im);
 	
 	// test 1
+	
+	// test 2
 }
