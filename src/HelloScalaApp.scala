@@ -37,5 +37,8 @@ object HelloScalaApp extends App {
 	
 	println(complex.re + " " + complex.im);
 	
+	// Commnit 1
+	println("commit 1");
+	
 // test 2014/9/17
 }
