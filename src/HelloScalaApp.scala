@@ -35,10 +35,5 @@ object HelloScalaApp extends App {
 //	
     val complex = new Complex(1.5, 2.5)
 	
-	println(complex.re + " " + complex.im);
-	
-	// Commnit 1
-	println("commit 1");
-	
-// test 2014/9/17
+	println(complex.re + ", " + complex.im);
 }
